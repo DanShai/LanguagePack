@@ -1,10 +1,6 @@
 
 # Tifinagh Moroccan Language for AnySoftKeyboard
 
-<p align="center">
-    <img src="./prt.png" width="300"/>
-</p>
+![](https://raw.githubusercontent.com/DanShai/LanguagePack/Tifinagh/prt.png)
 
-<p align="center">
-    <img src="./lan.png" width="350"/>
-</p>
+![](https://raw.githubusercontent.com/DanShai/LanguagePack/Tifinagh/lan.png)
